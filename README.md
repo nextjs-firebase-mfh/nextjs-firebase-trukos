@@ -1,4 +1,4 @@
-# nextjs-firebase-trukos
+# Nextjs firebase trukos
 
 
 Creamos una aplicacion de NextJS
